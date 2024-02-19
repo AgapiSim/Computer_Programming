@@ -11,6 +11,6 @@ This is where someone moves from "having seen" to "knowing" programming. In addi
 ### Main topics covered:
 
   1. Recursive thinking
-  2. Recursive descent, exceptions and function objects
+  2. Recursive descent, exceptions and function objects (Building a calculator)
   3. Linked Lists & Binary Tree Generation
   3. Multiprocessing & Integration with C++
